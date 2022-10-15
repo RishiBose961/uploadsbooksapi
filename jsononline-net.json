@@ -2,13 +2,9 @@
   {
     "id": 2641,
     "title": "A Room with a View",
-    "authors": [
-      {
-        "name": "Forster, E. M. (Edward Morgan)",
-        "birth_year": 1879,
-        "death_year": 1970
-      }
-    ],
+    "name": "Forster, E. M. (Edward Morgan)",
+    "birth_year": 1879,
+    "death_year": 1970,
     "translators": [],
     "subjects": [
       "British -- Italy -- Fiction",
@@ -39,13 +35,9 @@
   {
     "id": 16389,
     "title": "The Enchanted April",
-    "authors": [
-      {
-        "name": "Von Arnim, Elizabeth",
-        "birth_year": 1866,
-        "death_year": 1941
-      }
-    ],
+    "name": "Von Arnim, Elizabeth",
+    "birth_year": 1866,
+    "death_year": 1941,
     "translators": [],
     "subjects": [
       "British -- Italy -- Fiction",
@@ -77,13 +69,9 @@
   {
     "id": 1342,
     "title": "Pride and Prejudice",
-    "authors": [
-      {
-        "name": "Austen, Jane",
-        "birth_year": 1775,
-        "death_year": 1817
-      }
-    ],
+    "name": "Austen, Jane",
+    "birth_year": 1775,
+    "death_year": 1817,
     "translators": [],
     "subjects": [
       "Courtship -- Fiction",
@@ -117,13 +105,9 @@
   {
     "id": 84,
     "title": "Frankenstein; Or, The Modern Prometheus",
-    "authors": [
-      {
-        "name": "Shelley, Mary Wollstonecraft",
-        "birth_year": 1797,
-        "death_year": 1851
-      }
-    ],
+    "name": "Shelley, Mary Wollstonecraft",
+    "birth_year": 1797,
+    "death_year": 1851,
     "translators": [],
     "subjects": [
       "Frankenstein's monster (Fictitious character) -- Fiction",
@@ -159,13 +143,9 @@
   {
     "id": 145,
     "title": "Middlemarch",
-    "authors": [
-      {
-        "name": "Eliot, George",
-        "birth_year": 1819,
-        "death_year": 1880
-      }
-    ],
+    "name": "Eliot, George",
+    "birth_year": 1819,
+    "death_year": 1880,
     "translators": [],
     "subjects": [
       "Bildungsromans",
@@ -201,13 +181,9 @@
   {
     "id": 394,
     "title": "Cranford",
-    "authors": [
-      {
-        "name": "Gaskell, Elizabeth Cleghorn",
-        "birth_year": 1810,
-        "death_year": 1865
-      }
-    ],
+    "name": "Gaskell, Elizabeth Cleghorn",
+    "birth_year": 1810,
+    "death_year": 1865,
     "translators": [],
     "subjects": [
       "England -- Fiction",
@@ -238,13 +214,9 @@
   {
     "id": 67979,
     "title": "The Blue Castle: a novel",
-    "authors": [
-      {
-        "name": "Montgomery, L. M. (Lucy Maud)",
-        "birth_year": 1874,
-        "death_year": 1942
-      }
-    ],
+    "name": "Montgomery, L. M. (Lucy Maud)",
+    "birth_year": 1874,
+    "death_year": 1942,
     "translators": [],
     "subjects": [
       "Canada -- History -- 1914-1945 -- Fiction",
@@ -276,13 +248,9 @@
   {
     "id": 1661,
     "title": "The Adventures of Sherlock Holmes",
-    "authors": [
-      {
-        "name": "Doyle, Arthur Conan",
-        "birth_year": 1859,
-        "death_year": 1930
-      }
-    ],
+    "name": "Doyle, Arthur Conan",
+    "birth_year": 1859,
+    "death_year": 1930,
     "translators": [],
     "subjects": [
       "Detective and mystery stories, English",
@@ -313,13 +281,9 @@
   {
     "id": 11,
     "title": "Alice's Adventures in Wonderland",
-    "authors": [
-      {
-        "name": "Carroll, Lewis",
-        "birth_year": 1832,
-        "death_year": 1898
-      }
-    ],
+    "name": "Carroll, Lewis",
+    "birth_year": 1832,
+    "death_year": 1898,
     "translators": [],
     "subjects": [
       "Alice (Fictitious character from Carroll) -- Juvenile fiction",
@@ -349,13 +313,9 @@
   {
     "id": 1952,
     "title": "The Yellow Wallpaper",
-    "authors": [
-      {
-        "name": "Gilman, Charlotte Perkins",
-        "birth_year": 1860,
-        "death_year": 1935
-      }
-    ],
+    "name": "Gilman, Charlotte Perkins",
+    "birth_year": 1860,
+    "death_year": 1935,
     "translators": [],
     "subjects": [
       "Feminist fiction",
@@ -386,13 +346,9 @@
   {
     "id": 345,
     "title": "Dracula",
-    "authors": [
-      {
-        "name": "Stoker, Bram",
-        "birth_year": 1847,
-        "death_year": 1912
-      }
-    ],
+    "name": "Stoker, Bram",
+    "birth_year": 1847,
+    "death_year": 1912,
     "translators": [],
     "subjects": [
       "Dracula, Count (Fictitious character) -- Fiction",
@@ -429,13 +385,9 @@
   {
     "id": 25344,
     "title": "The Scarlet Letter",
-    "authors": [
-      {
-        "name": "Hawthorne, Nathaniel",
-        "birth_year": 1804,
-        "death_year": 1864
-      }
-    ],
+    "name": "Hawthorne, Nathaniel",
+    "birth_year": 1804,
+    "death_year": 1864,
     "translators": [],
     "subjects": [
       "Adultery -- Fiction",
@@ -473,13 +425,9 @@
   {
     "id": 174,
     "title": "The Picture of Dorian Gray",
-    "authors": [
-      {
-        "name": "Wilde, Oscar",
-        "birth_year": 1854,
-        "death_year": 1900
-      }
-    ],
+    "name": "Wilde, Oscar",
+    "birth_year": 1854,
+    "death_year": 1900,
     "translators": [],
     "subjects": [
       "Appearance (Philosophy) -- Fiction",
@@ -515,13 +463,9 @@
   {
     "id": 1080,
     "title": "A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
-    "authors": [
-      {
-        "name": "Swift, Jonathan",
-        "birth_year": 1667,
-        "death_year": 1745
-      }
-    ],
+    "name": "Swift, Jonathan",
+    "birth_year": 1667,
+    "death_year": 1745,
     "translators": [],
     "subjects": [
       "Ireland -- Politics and government -- 18th century -- Humor",
@@ -548,13 +492,9 @@
   {
     "id": 2701,
     "title": "Moby Dick; Or, The Whale",
-    "authors": [
-      {
-        "name": "Melville, Herman",
-        "birth_year": 1819,
-        "death_year": 1891
-      }
-    ],
+    "name": "Melville, Herman",
+    "birth_year": 1819,
+    "death_year": 1891,
     "translators": [],
     "subjects": [
       "Adventure stories",
@@ -589,13 +529,9 @@
   {
     "id": 98,
     "title": "A Tale of Two Cities",
-    "authors": [
-      {
-        "name": "Dickens, Charles",
-        "birth_year": 1812,
-        "death_year": 1870
-      }
-    ],
+    "name": "Dickens, Charles",
+    "birth_year": 1812,
+    "death_year": 1870,
     "translators": [],
     "subjects": [
       "British -- France -- Paris -- Fiction",
@@ -630,13 +566,9 @@
   {
     "id": 64317,
     "title": "The Great Gatsby",
-    "authors": [
-      {
-        "name": "Fitzgerald, F. Scott (Francis Scott)",
-        "birth_year": 1896,
-        "death_year": 1940
-      }
-    ],
+    "name": "Fitzgerald, F. Scott (Francis Scott)",
+    "birth_year": 1896,
+    "death_year": 1940,
     "translators": [],
     "subjects": [
       "First loves -- Fiction",
@@ -666,13 +598,9 @@
   {
     "id": 2542,
     "title": "A Doll's House : a play",
-    "authors": [
-      {
-        "name": "Ibsen, Henrik",
-        "birth_year": 1828,
-        "death_year": 1906
-      }
-    ],
+    "name": "Ibsen, Henrik",
+    "birth_year": 1828,
+    "death_year": 1906,
     "translators": [],
     "subjects": [
       "Man-woman relationships -- Drama",
@@ -702,13 +630,10 @@
   {
     "id": 43,
     "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
-    "authors": [
-      {
+   
         "name": "Stevenson, Robert Louis",
         "birth_year": 1850,
-        "death_year": 1894
-      }
-    ],
+        "death_year": 1894,
     "translators": [],
     "subjects": [
       "Horror tales",
@@ -741,50 +666,11 @@
     "download_count": 16690
   },
   {
-    "id": 16328,
-    "title": "Beowulf: An Anglo-Saxon Epic Poem",
-    "authors": [],
-    "translators": [
-      {
-        "name": "Hall, J. Lesslie (John Lesslie)",
-        "birth_year": 1856,
-        "death_year": 1928
-      }
-    ],
-    "subjects": [
-      "Dragons -- Poetry",
-      "Epic poetry, English (Old)",
-      "Monsters -- Poetry"
-    ],
-    "bookshelves": [
-      "Poetry"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/16328.epub3.images",
-      "text/html": "https://www.gutenberg.org/ebooks/16328.html.images",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16328.kindle.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/16328.rdf",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/16328/pg16328.cover.medium.jpg",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/16328/16328-0.txt",
-      "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/16328/16328-h/16328-h.htm"
-    },
-    "download_count": 16543
-  },
-  {
     "id": 1232,
     "title": "The Prince",
-    "authors": [
-      {
-        "name": "Machiavelli, Niccolò",
-        "birth_year": 1469,
-        "death_year": 1527
-      }
-    ],
+    "name": "Machiavelli, Niccolò",
+    "birth_year": 1469,
+    "death_year": 1527,
     "translators": [
       {
         "name": "Marriott, W. K. (William Kenaz)",
@@ -823,13 +709,9 @@
   {
     "id": 6130,
     "title": "The Iliad",
-    "authors": [
-      {
-        "name": "Homer",
-        "birth_year": -750,
-        "death_year": -650
-      }
-    ],
+    "name": "Homer",
+    "birth_year": -750,
+    "death_year": -650,
     "translators": [
       {
         "name": "Pope, Alexander",
@@ -866,403 +748,362 @@
   {
     "id": 2591,
     "title": "Grimms' Fairy Tales",
-    "authors": [
-      {
-        "name": "Grimm, Wilhelm",
-        "birth_year": 1786,
-        "death_year": 1859
-      },
-      {
-        "name": "Grimm, Jacob",
-        "birth_year": 1785,
-        "death_year": 1863
-      }
-    ],
+    "name": "Grimm, Wilhelm",
+    "birth_year": 1786,
+    "death_year": 1859,
+    
+    "names": "Grimm, Jacob",
+    "birth_years": 1785,
+    "death_years": 1863,
     "translators": [],
     "subjects": [
-      "Fairy tales -- Germany"
+    "Fairy tales -- Germany"
     ],
     "bookshelves": [],
     "languages": [
-      "en"
+    "en"
     ],
     "copyright": false,
     "media_type": "Text",
     "formats": {
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2591/2591-0.txt",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/2591/pg2591.cover.medium.jpg",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2591.kindle.images",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/2591.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/2591.rdf",
-      "text/html": "https://www.gutenberg.org/ebooks/2591.html.images"
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2591/2591-0.txt",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/2591/pg2591.cover.medium.jpg",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2591.kindle.images",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/2591.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/2591.rdf",
+    "text/html": "https://www.gutenberg.org/ebooks/2591.html.images"
     },
     "download_count": 15435
-  },
-  {
-    "id": 5200,
-    "title": "Metamorphosis",
-    "authors": [
-      {
-        "name": "Kafka, Franz",
-        "birth_year": 1883,
-        "death_year": 1924
-      }
-    ],
-    "translators": [
-      {
-        "name": "Wyllie, David (Translator)",
-        "birth_year": null,
-        "death_year": null
-      }
-    ],
-    "subjects": [
-      "Metamorphosis -- Fiction",
-      "Psychological fiction"
-    ],
-    "bookshelves": [
-      "Horror"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": true,
-    "media_type": "Text",
-    "formats": {
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/5200/pg5200.cover.medium.jpg",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5200/5200-0.txt",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/5200.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/5200.rdf",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5200.kindle.images",
-      "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
-      "text/html": "https://www.gutenberg.org/ebooks/5200.html.images"
     },
-    "download_count": 14972
+{
+  "id": 5200,
+  "title": "Metamorphosis",
+  "name": "Kafka, Franz",
+  "birth_year": 1883,
+  "death_year": 1924,
+  "translators": [
+    {
+      "name": "Wyllie, David (Translator)",
+      "birth_year": null,
+      "death_year": null
+    }
+  ],
+  "subjects": [
+    "Metamorphosis -- Fiction",
+    "Psychological fiction"
+  ],
+  "bookshelves": [
+    "Horror"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": true,
+  "media_type": "Text",
+  "formats": {
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/5200/pg5200.cover.medium.jpg",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5200/5200-0.txt",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/5200.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/5200.rdf",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5200.kindle.images",
+    "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+    "text/html": "https://www.gutenberg.org/ebooks/5200.html.images"
   },
-  {
-    "id": 408,
-    "title": "The Souls of Black Folk",
-    "authors": [
-      {
-        "name": "Du Bois, W. E. B. (William Edward Burghardt)",
-        "birth_year": 1868,
-        "death_year": 1963
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "African Americans"
-    ],
-    "bookshelves": [
-      "African American Writers"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/408/408-0.txt",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/408.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/408.rdf",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/408.kindle.images",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/408/pg408.cover.medium.jpg",
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
-      "text/html": "https://www.gutenberg.org/ebooks/408.html.images"
-    },
-    "download_count": 14734
+  "download_count": 14972
+},
+{
+  "id": 408,
+  "title": "The Souls of Black Folk",
+  "name": "Du Bois, W. E. B. (William Edward Burghardt)",
+  "birth_year": 1868,
+  "death_year": 1963,
+  "translators": [],
+  "subjects": [
+    "African Americans"
+  ],
+  "bookshelves": [
+    "African American Writers"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/408/408-0.txt",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/408.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/408.rdf",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/408.kindle.images",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/408/pg408.cover.medium.jpg",
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+    "text/html": "https://www.gutenberg.org/ebooks/408.html.images"
   },
-  {
-    "id": 4300,
-    "title": "Ulysses",
-    "authors": [
-      {
-        "name": "Joyce, James",
-        "birth_year": 1882,
-        "death_year": 1941
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "Alienation (Social psychology) -- Fiction",
-      "Artists -- Fiction",
-      "City and town life -- Fiction",
-      "Domestic fiction",
-      "Dublin (Ireland) -- Fiction",
-      "Epic literature",
-      "Jewish men -- Fiction",
-      "Male friendship -- Fiction",
-      "Married people -- Fiction",
-      "Psychological fiction"
-    ],
-    "bookshelves": [
-      "Banned Books List from the American Library Association",
-      "Banned Books from Anne Haight's list",
-      "Best Books Ever Listings",
-      "Erotic Fiction"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/4300/4300-h/4300-h.htm",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/4300/pg4300.cover.medium.jpg",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/4300.rdf",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/4300.epub.images",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4300.kindle.images",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4300/4300-0.txt",
-      "text/html": "https://www.gutenberg.org/ebooks/4300.html.images"
-    },
-    "download_count": 13875
+  "download_count": 14734
+},
+{
+  "id": 4300,
+  "title": "Ulysses",
+  "name": "Joyce, James",
+  "birth_year": 1882,
+  "death_year": 1941,
+  "translators": [],
+  "subjects": [
+    "Alienation (Social psychology) -- Fiction",
+    "Artists -- Fiction",
+    "City and town life -- Fiction",
+    "Domestic fiction",
+    "Dublin (Ireland) -- Fiction",
+    "Epic literature",
+    "Jewish men -- Fiction",
+    "Male friendship -- Fiction",
+    "Married people -- Fiction",
+    "Psychological fiction"
+  ],
+  "bookshelves": [
+    "Banned Books List from the American Library Association",
+    "Banned Books from Anne Haight's list",
+    "Best Books Ever Listings",
+    "Erotic Fiction"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/4300/4300-h/4300-h.htm",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/4300/pg4300.cover.medium.jpg",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/4300.rdf",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/4300.epub.images",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4300.kindle.images",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/4300/4300-0.txt",
+    "text/html": "https://www.gutenberg.org/ebooks/4300.html.images"
   },
-  {
-    "id": 1400,
-    "title": "Great Expectations",
-    "authors": [
-      {
-        "name": "Dickens, Charles",
-        "birth_year": 1812,
-        "death_year": 1870
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "Benefactors -- Fiction",
-      "Bildungsromans",
-      "England -- Fiction",
-      "Ex-convicts -- Fiction",
-      "Man-woman relationships -- Fiction",
-      "Orphans -- Fiction",
-      "Revenge -- Fiction",
-      "Young men -- Fiction"
-    ],
-    "bookshelves": [
-      "Best Books Ever Listings"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1400/1400-0.txt",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/1400/pg1400.cover.medium.jpg",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1400.kindle.images",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/1400.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/1400.rdf",
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/1400/1400-h/1400-h.htm",
-      "text/html": "https://www.gutenberg.org/ebooks/1400.html.images"
-    },
-    "download_count": 13825
+  "download_count": 13875
+},
+{
+  "id": 1400,
+  "title": "Great Expectations",
+  "name": "Dickens, Charles",
+  "birth_year": 1812,
+  "death_year": 1870,
+  "translators": [],
+  "subjects": [
+    "Benefactors -- Fiction",
+    "Bildungsromans",
+    "England -- Fiction",
+    "Ex-convicts -- Fiction",
+    "Man-woman relationships -- Fiction",
+    "Orphans -- Fiction",
+    "Revenge -- Fiction",
+    "Young men -- Fiction"
+  ],
+  "bookshelves": [
+    "Best Books Ever Listings"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1400/1400-0.txt",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/1400/pg1400.cover.medium.jpg",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1400.kindle.images",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/1400.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/1400.rdf",
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/1400/1400-h/1400-h.htm",
+    "text/html": "https://www.gutenberg.org/ebooks/1400.html.images"
   },
-  {
-    "id": 1260,
-    "title": "Jane Eyre: An Autobiography",
-    "authors": [
-      {
-        "name": "Brontë, Charlotte",
-        "birth_year": 1816,
-        "death_year": 1855
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "Bildungsromans",
-      "Charity-schools -- Fiction",
-      "Country homes -- Fiction",
-      "England -- Fiction",
-      "Fathers and daughters -- Fiction",
-      "Governesses -- Fiction",
-      "Love stories",
-      "Married people -- Fiction",
-      "Mentally ill women -- Fiction",
-      "Orphans -- Fiction",
-      "Young women -- Fiction"
-    ],
-    "bookshelves": [],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1260.kindle.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/1260.rdf",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/1260.epub.images",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1260/1260-0.txt",
-      "text/html": "https://www.gutenberg.org/ebooks/1260.html.images"
-    },
-    "download_count": 13374
+  "download_count": 13825
+},
+{
+  "id": 1260,
+  "title": "Jane Eyre: An Autobiography",
+  "name": "Brontë, Charlotte",
+  "birth_year": 1816,
+  "death_year": 1855,
+  "translators": [],
+  "subjects": [
+    "Bildungsromans",
+    "Charity-schools -- Fiction",
+    "Country homes -- Fiction",
+    "England -- Fiction",
+    "Fathers and daughters -- Fiction",
+    "Governesses -- Fiction",
+    "Love stories",
+    "Married people -- Fiction",
+    "Mentally ill women -- Fiction",
+    "Orphans -- Fiction",
+    "Young women -- Fiction"
+  ],
+  "bookshelves": [],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/1260/1260-h/1260-h.htm",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1260.kindle.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/1260.rdf",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/1260.epub.images",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/1260/1260-0.txt",
+    "text/html": "https://www.gutenberg.org/ebooks/1260.html.images"
   },
-  {
-    "id": 205,
-    "title": "Walden, and On The Duty Of Civil Disobedience",
-    "authors": [
-      {
-        "name": "Thoreau, Henry David",
-        "birth_year": 1817,
-        "death_year": 1862
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "Authors, American -- 19th century -- Biography",
-      "Civil disobedience",
-      "Government, Resistance to",
-      "Natural history -- Massachusetts -- Walden Woods",
-      "Solitude",
-      "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
-      "Walden Woods (Mass.) -- Social life and customs",
-      "Wilderness areas -- Massachusetts -- Walden Woods"
-    ],
-    "bookshelves": [],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/205/205-h/205-h.htm",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/205.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/205.rdf",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/205.kindle.images",
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/205/205-0.txt",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/205/pg205.cover.medium.jpg",
-      "text/html": "https://www.gutenberg.org/ebooks/205.html.images"
-    },
-    "download_count": 13269
+  "download_count": 13374
+},
+{
+  "id": 205,
+  "title": "Walden, and On The Duty Of Civil Disobedience",
+  "name": "Thoreau, Henry David",
+  "birth_year": 1817,
+  "death_year": 1862,
+  "translators": [],
+  "subjects": [
+    "Authors, American -- 19th century -- Biography",
+    "Civil disobedience",
+    "Government, Resistance to",
+    "Natural history -- Massachusetts -- Walden Woods",
+    "Solitude",
+    "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
+    "Walden Woods (Mass.) -- Social life and customs",
+    "Wilderness areas -- Massachusetts -- Walden Woods"
+  ],
+  "bookshelves": [],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/205/205-h/205-h.htm",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/205.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/205.rdf",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/205.kindle.images",
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/205/205-0.txt",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/205/pg205.cover.medium.jpg",
+    "text/html": "https://www.gutenberg.org/ebooks/205.html.images"
   },
-  {
-    "id": 2554,
-    "title": "Crime and Punishment",
-    "authors": [
-      {
-        "name": "Dostoyevsky, Fyodor",
-        "birth_year": 1821,
-        "death_year": 1881
-      }
-    ],
-    "translators": [
-      {
-        "name": "Garnett, Constance",
-        "birth_year": 1861,
-        "death_year": 1946
-      }
-    ],
-    "subjects": [
-      "Crime -- Psychological aspects -- Fiction",
-      "Detective and mystery stories",
-      "Murder -- Fiction",
-      "Psychological fiction",
-      "Saint Petersburg (Russia) -- Fiction"
-    ],
-    "bookshelves": [
-      "Best Books Ever Listings",
-      "Crime Fiction",
-      "Harvard Classics"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2554/2554-0.txt",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2554.kindle.images",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/2554.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/2554.rdf",
-      "text/html; charset=utf-8": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm",
-      "text/html": "https://www.gutenberg.org/ebooks/2554.html.images"
-    },
-    "download_count": 13120
+  "download_count": 13269
+},
+{
+  "id": 2554,
+  "title": "Crime and Punishment",
+  "name": "Dostoyevsky, Fyodor",
+  "birth_year": 1821,
+  "death_year": 1881,
+  "translators": [
+    {
+      "name": "Garnett, Constance",
+      "birth_year": 1861,
+      "death_year": 1946
+    }
+  ],
+  "subjects": [
+    "Crime -- Psychological aspects -- Fiction",
+    "Detective and mystery stories",
+    "Murder -- Fiction",
+    "Psychological fiction",
+    "Saint Petersburg (Russia) -- Fiction"
+  ],
+  "bookshelves": [
+    "Best Books Ever Listings",
+    "Crime Fiction",
+    "Harvard Classics"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/plain; charset=utf-8": "https://www.gutenberg.org/files/2554/2554-0.txt",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2554.kindle.images",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/2554.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/2554.rdf",
+    "text/html; charset=utf-8": "https://www.gutenberg.org/files/2554/2554-h/2554-h.htm",
+    "text/html": "https://www.gutenberg.org/ebooks/2554.html.images"
   },
-  {
-    "id": 46,
-    "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
-    "authors": [
-      {
-        "name": "Dickens, Charles",
-        "birth_year": 1812,
-        "death_year": 1870
-      }
-    ],
-    "translators": [],
-    "subjects": [
-      "Christmas stories",
-      "Ghost stories",
-      "London (England) -- Fiction",
-      "Misers -- Fiction",
-      "Poor families -- Fiction",
-      "Scrooge, Ebenezer (Fictitious character) -- Fiction",
-      "Sick children -- Fiction"
-    ],
-    "bookshelves": [
-      "Children's Literature",
-      "Christmas"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/46.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/46.rdf",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46.kindle.images",
-      "textplaincharsetusascii": "https://www.gutenberg.org/files/46/46-0.txt",
-      "text/html": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
-      "applicationoctetstream": "https://www.gutenberg.org/files/46/46-0.zip",
-      "text/plain": "https://www.gutenberg.org/ebooks/46.txt.utf-8"
-    },
-    "download_count": 12554
+  "download_count": 13120
+},
+{
+  "id": 46,
+  "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+  "name": "Dickens, Charles",
+  "birth_year": 1812,
+  "death_year": 1870,
+  "translators": [],
+  "subjects": [
+    "Christmas stories",
+    "Ghost stories",
+    "London (England) -- Fiction",
+    "Misers -- Fiction",
+    "Poor families -- Fiction",
+    "Scrooge, Ebenezer (Fictitious character) -- Fiction",
+    "Sick children -- Fiction"
+  ],
+  "bookshelves": [
+    "Children's Literature",
+    "Christmas"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/46.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/46.rdf",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46.kindle.images",
+    "textplaincharsetusascii": "https://www.gutenberg.org/files/46/46-0.txt",
+    "text/html": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
+    "applicationoctetstream": "https://www.gutenberg.org/files/46/46-0.zip",
+    "text/plain": "https://www.gutenberg.org/ebooks/46.txt.utf-8"
   },
-  {
-    "id": 1497,
-    "title": "The Republic",
-    "authors": [
-      {
-        "name": "Plato",
-        "birth_year": -428,
-        "death_year": -348
-      }
-    ],
-    "translators": [
-      {
-        "name": "Jowett, Benjamin",
-        "birth_year": 1817,
-        "death_year": 1893
-      }
-    ],
-    "subjects": [
-      "Classical literature",
-      "Justice -- Early works to 1800",
-      "Political science -- Early works to 1800",
-      "Utopias -- Early works to 1800"
-    ],
-    "bookshelves": [
-      "Philosophy"
-    ],
-    "languages": [
-      "en"
-    ],
-    "copyright": false,
-    "media_type": "Text",
-    "formats": {
-      "text/html": "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm",
-      "imagejpeg": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
-      "text/plain": "https://www.gutenberg.org/ebooks/1497.txt.utf-8",
-      "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1497.kindle.images",
-      "application/epub+zip": "https://www.gutenberg.org/ebooks/1497.epub.images",
-      "application/rdf+xml": "https://www.gutenberg.org/ebooks/1497.rdf",
-      "textplaincharsetusascii": "https://www.gutenberg.org/files/1497/1497-0.txt",
-      "applicationoctetstream": "https://www.gutenberg.org/files/1497/1497-0.zip"
-    },
-    "download_count": 12299
-  }
+  "download_count": 12554
+},
+{
+  "id": 1497,
+  "title": "The Republic",
+  "name": "Plato",
+  "birth_year": -428,
+  "death_year": -348,
+  "translators": [
+    {
+      "name": "Jowett, Benjamin",
+      "birth_year": 1817,
+      "death_year": 1893
+    }
+  ],
+  "subjects": [
+    "Classical literature",
+    "Justice -- Early works to 1800",
+    "Political science -- Early works to 1800",
+    "Utopias -- Early works to 1800"
+  ],
+  "bookshelves": [
+    "Philosophy"
+  ],
+  "languages": [
+    "en"
+  ],
+  "copyright": false,
+  "media_type": "Text",
+  "formats": {
+    "text/html": "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm",
+    "imagejpeg": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
+    "text/plain": "https://www.gutenberg.org/ebooks/1497.txt.utf-8",
+    "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1497.kindle.images",
+    "application/epub+zip": "https://www.gutenberg.org/ebooks/1497.epub.images",
+    "application/rdf+xml": "https://www.gutenberg.org/ebooks/1497.rdf",
+    "textplaincharsetusascii": "https://www.gutenberg.org/files/1497/1497-0.txt",
+    "applicationoctetstream": "https://www.gutenberg.org/files/1497/1497-0.zip"
+  },
+  "download_count": 12299
+}
 ]
