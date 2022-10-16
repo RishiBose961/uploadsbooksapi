@@ -52,7 +52,7 @@
     "languages": [
       "en"
     ],
-    "copyright": false,
+    "copyright": true,
     "media_type": "Text",
     "formats": {
       "imagejpeg": "https://www.gutenberg.org/cache/epub/16389/pg16389.cover.medium.jpg",
@@ -368,7 +368,7 @@
     "languages": [
       "en"
     ],
-    "copyright": false,
+    "copyright": true,
     "media_type": "Text",
     "formats": {
       "text/plain": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
@@ -446,7 +446,7 @@
     "languages": [
       "en"
     ],
-    "copyright": false,
+    "copyright": true,
     "media_type": "Text",
     "formats": {
       "application/epub+zip": "https://www.gutenberg.org/ebooks/174.epub.images",
@@ -1092,7 +1092,7 @@
   "languages": [
     "en"
   ],
-  "copyright": false,
+  "copyright": true,
   "media_type": "Text",
   "formats": {
     "text/html": "https://www.gutenberg.org/files/1497/1497-h/1497-h.htm",
